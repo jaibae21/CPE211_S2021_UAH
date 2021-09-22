@@ -3,3 +3,4 @@
 2. To be used as reference. Note* most of his projects can be completed by just look at his examples
 3. Bowman's solution not given. 
 4. Received 100 + bonus on all projects. 
+5. Project 11 - Extra Credit was not attempted
